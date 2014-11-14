@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CursorMargerDemo</string>
+    <string name="book_authority_name">com.ajra.cursormerger.database.BookContentProvider</string>
+
+</resources>
