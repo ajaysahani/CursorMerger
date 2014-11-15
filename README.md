@@ -2,7 +2,7 @@ CursorMerger
 ====================
 This library is design to insert cursor row inside another cursor or insert dummy row inside actual cursor. 
 
-<a href="http://imgur.com/g7G7xm7"><img src="http://i.imgur.com/g7G7xm7.gif" width='275' height='428' /></a>
+<a href="http://imgur.com/WMr0ym6"><img src="http://i.imgur.com/WMr0ym6.gif" width='275' height='428' /></a>
 Features
 ========
 
